@@ -113,7 +113,7 @@ For support, add the issues in https://github.com/egovernments/DIGIT-core/issues
 Go to the Sub directory to run UI
 
 ```bash
-    cd into micro-ui/web
+    cd micro-ui/web
 ```
 
 ```bash
